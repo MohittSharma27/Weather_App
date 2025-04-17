@@ -22,10 +22,21 @@ A sleek and responsive Weather App built using HTML, CSS, and JavaScript, which 
   ⚡ Fast and minimal with responsive design for all screen sizes
 
 # 🛠️ Technologies Used
-  HTML5 – Markup structure
+  HTML – Markup structure
   
-  CSS3 – Styling and responsive layout
+  CSS – Styling and responsive layout
   
-  JavaScript (Vanilla) – Fetch API, DOM manipulation, geolocation
+  JavaScript – Fetch API, DOM manipulation, geolocation
   
   Weather API – For retrieving weather data
+# 💡 Future Improvements
+Add forecast for next 5 days
+
+Improve error handling for invalid inputs
+
+Add unit toggle between Celsius and Fahrenheit
+
+Store recent searches in localStorage
+
+# 📄 License
+This project is open-source and available under the MIT License.
